@@ -6,6 +6,8 @@ public class Kare extends Sekil{
         super(uzunKenar, kisaKenar);
     }
 
+
+
     @Override
     public String toString() {
         return "Kare " +
